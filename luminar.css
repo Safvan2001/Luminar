@@ -1,0 +1,36 @@
+body{
+    background-color: burlywood;
+}
+.h1{
+    color: white;
+    text-align: center;
+}
+.a1{
+    
+    color: rgb(180, 14, 14);
+    
+}
+.k1{
+    color: white;
+}
+.k2{
+   color: rgb(97, 87, 87);
+}
+h3{
+    color: white;
+}
+.q1{
+    color:  rgb(97, 87, 87);
+}
+.q2{
+    color: rgb(80, 255, 173);
+}
+th{
+    color: blue;
+}
+td{
+    color:  rgb(97, 87, 87); 
+}
+.d1{
+    background-color: coral;
+}
